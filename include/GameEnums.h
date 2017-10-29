@@ -1,5 +1,9 @@
 #ifndef GAMEENUMS_h
 #define GAMEENUMS_h
+/*!
+  Author: blaavogn
+  From: https://github.com/blaavogn/light-riders-starterbot/
+*/
 #include <vector>
 #include <utility>
 

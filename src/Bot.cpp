@@ -1,3 +1,6 @@
+/*!
+  Author: MaikuZ
+*/
 #include "Bot.h"
 #include <sstream>
 #include <iostream>

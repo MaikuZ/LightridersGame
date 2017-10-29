@@ -1,5 +1,8 @@
 #ifndef BOT_H
 #define BOT_H
+/*!
+  Author: MaikuZ
+*/
 #include "pstream.h"
 #include "GameEnums.h"
 #include <string>

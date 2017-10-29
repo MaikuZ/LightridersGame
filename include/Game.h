@@ -1,5 +1,8 @@
 #ifndef GAME_H
 #define GAME_H
+/*!
+  Author: MaikuZ
+*/
 #include "Timer.h"
 #include <string>
 #include <SFML/Graphics.hpp>

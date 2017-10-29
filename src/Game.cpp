@@ -1,3 +1,6 @@
+/*!
+  Author: MaikuZ
+*/
 #include "Game.h"
 #include <thread>
 #include "Timer.h"
