@@ -5,6 +5,7 @@ This software relies on PStreams(http://pstreams.sourceforge.net/, BOOST license
 This software is a Lightriders game environment from https://starapple.riddles.io/competitions/light-riders.
 It is designed to offer a human player the possibility to fight against his or someone else's bot. 
 
+This software is licensed under BOOST license(see LICENSE_1_0.txt).
 
 Picture presenting the environment.
 
@@ -13,8 +14,7 @@ Picture presenting the environment.
 HOW TO USE
 
 To use this software one has to compile it first using make. The binary will be created in bin directory.
-
-(I haven’t tested it on Windows yet)
+To be able to compile it you need to have SFML installed on your machine(on linux 'sudo apt-get install libsfml-dev' should work)[I haven’t tested it on Windows yet].
 
 Once compiled please put the ligthridersGame executive file in the same directory as your bot executive file.
 You can then execute lightridersGame(through console). If you execute it in console/terminal it will prompt you to write your bot's executive file name. Once you type it in and press enter the game will start. 
@@ -28,3 +28,4 @@ GAME MECHANICS
 Game mechanics are exactly the same as in https://starapple.riddles.io/competitions/light-riders/how-to-play
 
 After the game ends you may press R button and the game will restart with new random starting positions.
+
