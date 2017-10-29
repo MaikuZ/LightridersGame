@@ -7,6 +7,7 @@ It is designed to offer a human player the possibility to fight against his or s
 
 
 Picture presenting the environment.
+
 ![alt text](https://github.com/MaikuZ/LightridersGame/blob/master/lightridersGame.jpeg)
 
 HOW TO USE
