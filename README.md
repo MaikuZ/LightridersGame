@@ -6,6 +6,9 @@ This software is a Lightriders game environment from https://starapple.riddles.i
 It is designed to offer a human player the possibility to fight against his or someone else's bot. 
 
 
+Picture presenting the environment.
+![alt text](https://github.com/MaikuZ/LightridersGame/blob/master/lightridersGame.jpeg)
+
 HOW TO USE
 
 To use this software one has to compile it first using make. The binary will be created in bin directory.
