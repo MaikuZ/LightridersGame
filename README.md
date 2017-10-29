@@ -1,6 +1,6 @@
 LightridersGame
 
-This software relies on PStreams(http://pstreams.sourceforge.net/, BOOST license, include/pstreams.h file) and SFML library(https://www.sfml-dev.org/, zlib/png license, library used for 2d graphics) and blaavogn's starter bot(https://github.com/blaavogn/light-riders-starterbot/, only include/GameEnums.h). 
+This software relies on PStreams(http://pstreams.sourceforge.net/, BOOST license, include/pstreams.h file) and SFML library(https://www.sfml-dev.org/, zlib/png license, library used for 2d graphics) and blaavogn's starter bot(https://github.com/blaavogn/light-riders-starterbot/, include/GameEnums.h file). 
 
 This software is a Lightriders game environment from https://starapple.riddles.io/competitions/light-riders.
 It is designed to offer a human player the possibility to fight against his or someone else's bot. 
